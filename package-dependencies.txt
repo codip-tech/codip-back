@@ -1,0 +1,5 @@
+Dependencias necesarias:
+
+npm install aws-sdk @nestjs/config @nestjs/passport passport passport-jwt class-validator class-transformer
+
+npm install -D @types/passport-jwt
